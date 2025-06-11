@@ -3,4 +3,4 @@
 
 ## Goals
 
-Showcase my knowledge of HTML, CSS, and JavaScript skills with UI simple that is responsive, and accessible. 
+Showcase my knowledge of HTML, CSS, and JavaScript skills with simple UI that is responsive, and accessible. 
